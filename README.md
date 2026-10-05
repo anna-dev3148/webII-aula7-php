@@ -1,1 +1,1 @@
-# webII-aula7-php
+# Exercícios da Aula 7 de Desenvolvimento Web II - ADS
